@@ -1,1 +1,1 @@
-console.log("感谢您的浏览，期待能够加入贵公司！我的博客：http://if2er.com/");
+console.log("感谢您的浏览，期待能够同愿景！homepage：http://zyq1569.github.io/");
